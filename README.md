@@ -4,3 +4,5 @@
 - How to reach me: phoeft04@gmail.com
 - Fun fact: I am apart of a game testing team for the company Red Hook,
   currently helping them with their official modding support scene!
+
+- Check out my pinned repositories for projects I have worked on!
